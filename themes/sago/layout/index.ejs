@@ -1,0 +1,11 @@
+<main class="main-container">
+  <div class="container">
+    asd
+  </div>
+</main>
+<% page.posts.each(function(post){ %>
+    <%- partial('common/article', { post, index: true }) %>
+<% }); %>
+<% if (page.total > 1) { %>
+    <%- partial('common/paginator') %>
+<% } %>
