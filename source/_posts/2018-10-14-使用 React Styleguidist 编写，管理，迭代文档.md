@@ -4,6 +4,7 @@ date: 2018-10-14
 layout: post
 image: assets/images/trip/biyao3.jpg
 title: 使用 React Styleguidist 编写，管理，迭代文档
+description: 其实 React Styleguidist 挺难用的，后来改用了 docz
 permalink: /use-react-styleguidist
 tags: [技术]
 ---

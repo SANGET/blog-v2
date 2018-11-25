@@ -45,7 +45,7 @@ rss:
 footer:
   # Specify the date when the site was setup.
   # If not defined, current year will be used.
-  #since: 2015
+  since: 2013
 
   # Icon between year and copyright info.
   icon: user
@@ -126,9 +126,9 @@ scheme: Pisces
 # Key is the link label showing to end users.
 # Value before `||` delimeter is the target permalink.
 # Value after `||` delimeter is the name of FontAwesome icon. If icon (with or without delimeter) is not specified, globe icon will be loaded.
-#social:
-  #GitHub: https://github.com/yourname || github
-  #E-Mail: mailto:yourname@gmail.com || envelope
+social:
+  GitHub: https://github.com/SANGET || github
+  E-Mail: mailto:zh.sanget@gmail.com || envelope
   #Google: https://plus.google.com/yourname || google
   #Twitter: https://twitter.com/yourname || twitter
   #FB Page: https://www.facebook.com/yourname || facebook
@@ -154,7 +154,7 @@ links_layout: block
 # Sidebar Avatar
 # in theme directory(source/images): /images/avatar.gif
 # in site  directory(source/uploads): /uploads/avatar.gif
-#avatar: /images/avatar.gif
+avatar: /assets/images/avatar.jpg
 
 # Table Of Contents in the Sidebar
 toc:
@@ -465,7 +465,8 @@ needmoreshare2:
 #google_site_verification:
 
 # Google Analytics
-#google_analytics:
+google_analytics:
+  UA-125030746-1
 
 # Bing Webmaster tools verification setting
 # See: https://www.bing.com/webmaster/
@@ -655,7 +656,7 @@ tabs:
 # Use velocity to animate everything.
 motion:
   enable: true
-  async: false
+  async: true
   transition:
     # Transition variants:
     # fadeIn | fadeOut | flipXIn | flipXOut | flipYIn | flipYOut | flipBounceXIn | flipBounceXOut | flipBounceYIn | flipBounceYOut
