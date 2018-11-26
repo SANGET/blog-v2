@@ -1,0 +1,93 @@
+<style>
+  ._detail ._detail-content {
+    display: none;
+  }
+  .skill-container {
+    display: flex;
+    margin-bottom: 2em;
+  }
+  ._preview {
+    flex-basis: 40%;
+  }
+  ._detail {
+    flex: 1;
+  }
+  ._preview ul {
+    list-style: none;
+  }
+  ._action {
+    background-color: #EEE;
+    padding: 6px 12px;
+    margin-bottom: 10px;
+    border-radius: 4px;
+  }
+  ._action:hover,._action.active {
+    background-color: #5584ce;
+    color: #FFF;
+  }
+</style>
+<section class="skill-container" id="skill">
+  <div class="_preview">
+    <div id="FrontEnd" class="_action active">前端相关</div>
+    <div id="BackEnd" class="_action">后端相关</div>
+    <div id="SomeTool" class="_action">一些工具</div>
+  </div>
+  <div class="_detail">
+    <ul>
+      <li FrontEnd style="display: block" class="_detail-content">
+        <div>
+          <ul>
+            <li>React, React Native, Node</li>
+            <li>搭建一些前端的通用前端脚手架</li>
+            <li>让团队更好的互相协作</li>
+            <li><a href="/uke-libs">这里有更多描述</a></li>
+          </ul>
+        </div>
+      </li>
+      <li BackEnd class="_detail-content">
+        <div>
+          <ul>
+            <li>Node, ExpressJS</li>
+            <li>搭建一个通用 web server 脚手架</li>
+            <li>让产品快速部署</li>
+            <li><a href="https://github.com/SANGET/uke-web-server.git">这里有更多描述</a></li>
+          </ul>
+        </div>
+      </li>
+      <li SomeTool class="_detail-content">
+        <div>
+          <ul>
+            <li>一般使用 OSX, 无论是工作生活</li>
+            <li>GitHub, Gmail, Youtube</li>
+            <li>VSCode, Atom</li>
+            <li><a href="/tool-list">更多</a></li>
+          </ul>
+        </div>
+      </li>
+    </ul>
+  </div>
+</section>
+<script>
+var actions = document.querySelectorAll('#skill ._preview ._action');
+function getDetailDOM(id) {
+  return document.querySelector('#skill ._detail [' + id + ']') || null;
+}
+function getDetailSelector(e) {
+  var target = e.target;
+  var targetId = target.id;
+  return getDetailDOM(targetId);
+}
+actions.forEach(function(act, idx) {
+  act.addEventListener('mouseenter', function(e) {
+    var detailItem = getDetailSelector(e);
+    actions.forEach(function(_act) {
+      var _detailItem = getDetailDOM(_act.id);
+      _act.classList.remove('active');
+      _detailItem && (_detailItem.style.display = 'none');
+    });
+    act.classList.add('active');
+    detailItem && (detailItem.style.display = 'block');
+  });
+});
+</script>
+  
