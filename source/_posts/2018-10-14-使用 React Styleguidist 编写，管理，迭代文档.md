@@ -6,6 +6,7 @@ image: assets/images/trip/biyao3.jpg
 title: 使用 React Styleguidist 编写，管理，迭代文档
 description: 其实 React Styleguidist 挺难用的，后来改用了 docz
 permalink: /use-react-styleguidist
+keywords: 制作前端库文档
 tags: [技术]
 ---
 

@@ -4,6 +4,7 @@ date: 2014-10-23
 layout: post
 title: 使用 Node 抓 Rss 数据以及 Rss 正文的注意事项
 # permalink: "/application-tech-question"
+keywords: Node, RSS
 tags:
   - 疑问
 ---
