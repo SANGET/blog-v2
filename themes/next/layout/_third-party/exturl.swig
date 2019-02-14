@@ -18,19 +18,32 @@
 <script>
   (function ($) {
   	$('.photoset-grid-lightbox').photosetGrid({
-      highresLinks: true,
-      rel: 'withhearts-gallery',
-      gutter: '2px',
-    
-      onComplete: function(){
-        $('.photoset-grid-lightbox').attr('style', '');
-        $('.photoset-grid-lightbox a').colorbox({
-          photo: true,
-          scalePhotos: true,
-          maxHeight:'90%',
-          maxWidth:'90%'
-        });
-      }
+      width: '100%',
+    	// gutter: '5px',
+    	highresLinks: true,
+    	lowresWidth: 300,
+    	rel: 'gallery-01',
+    	borderActive: true,
+    	borderWidth: '3px',
+    	borderColor: '#000000',
+    	borderRadius: '3px',
+    	borderRemoveDouble: false,
+
+    	onInit: function(){},
+    	onComplete: function(){
+
+    		$('.photoset-grid-lightbox').css({
+    			'visibility': 'visible'
+    		});
+
+        // $('.photoset-grid-lightbox').attr('style', '');
+        // $('.photoset-grid-lightbox a').colorbox({
+        //   photo: true,
+        //   scalePhotos: true,
+        //   maxHeight:'90%',
+        //   maxWidth:'90%'
+        // });
+    	}
     });
   })(jQuery);
 </script>
