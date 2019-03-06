@@ -1,6 +1,6 @@
 ---
 title: about
-date: 2018-11-26 09:40:08
+date: 2018-11-26
 ---
 
 ## 我是 Alex Zhang (SANGET)
@@ -184,13 +184,13 @@ actions.forEach(function(act, idx) {
 - GitHub: [SANGET](https://github.com/SANGET)
 - E-mail: <a href="mailto:zh.sanget@gmail.com" target="_top">zh.sanget@gmail.com</a>
 
------------
+<!-- -----------
 
 ## 学历
 
 > 懂得终身学习成长，人生才刚刚可以开始。
 
-- 广东轻工职业技术学院 2010-2013
+- 广东轻工职业技术学院 2010-2013 -->
 
 -----------
 

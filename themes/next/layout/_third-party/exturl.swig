@@ -3,7 +3,7 @@
 {% endif %}
 
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-125030746-1"></script>
-<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous" />
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.12.0/styles/github.min.css" integrity="sha256-3YM6A3pH4QFCl9WbSU8oXF5N6W/2ylvW0o2g+Z6TmLQ=" crossorigin="anonymous" />
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -31,8 +31,6 @@
 
     	onInit: function(){},
     	onComplete: function(){
-
-        console.log('asd')
 
     		$('.photoset-grid-lightbox').css({
     			'visibility': 'visible'
