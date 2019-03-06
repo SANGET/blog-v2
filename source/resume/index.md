@@ -32,7 +32,7 @@ nav-menu: false
 - <a href="mailto:zh.sanget@gmail.com" target="_top">zh.sanget@gmail.com</a>
 - <a href="https://github.com/SANGET" target="_blank">GitHub</a>
 <!-- - <a href="/assets/files/resume_of_alex.pdf" target="_blank">PDF 简历</a> -->
-- [关于我](/about)
+<!-- - [关于我](/about) -->
 
 --------
 
