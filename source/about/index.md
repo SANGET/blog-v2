@@ -186,6 +186,14 @@ actions.forEach(function(act, idx) {
 
 -----------
 
+## 学历
+
+> 懂得终身学习成长，人生才刚刚可以开始。
+
+- 广东轻工职业技术学院 2010-2013
+
+-----------
+
 ## 我
 
 <div class="photoset-grid-lightbox" data-layout="33" style="visibility: hidden;">
