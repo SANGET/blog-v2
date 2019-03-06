@@ -1,7 +1,6 @@
 ---
 author: Alex
 title: About me
-permalink: /resume_en
 ---
 
 - [中文简历](/resume)
