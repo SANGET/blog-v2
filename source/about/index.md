@@ -178,19 +178,19 @@ actions.forEach(function(act, idx) {
 
 -----------
 
-## 一些联系方式
+## 联系方式
 
 - Telegram: aHR0cHM6Ly90Lm1lL0FMRVhfU0FOX0dJ
 - GitHub: [SANGET](https://github.com/SANGET)
 - E-mail: <a href="mailto:zh.sanget@gmail.com" target="_top">zh.sanget@gmail.com</a>
 
-<!-- -----------
+-----------
 
 ## 学历
 
 > 懂得终身学习成长，人生才刚刚可以开始。
 
-- 广东轻工职业技术学院 2010-2013 -->
+- 广东轻工职业技术学院 2010-2013
 
 -----------
 
