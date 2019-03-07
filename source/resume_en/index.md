@@ -14,7 +14,7 @@ title: About me
 - <a href="mailto:zh.sanget@gmail.com" target="_top">zh.sanget@gmail.com</a>
 - <a href="https://github.com/SANGET" target="_blank">GitHub</a>
 <!-- - <a href="{{ site.baseurl }}/assets/files/resume_of_alex.pdf" target="_blank">PDF resume</a> -->
-- [about me](./about)
+- [about me](/about)
 
 --------
 
