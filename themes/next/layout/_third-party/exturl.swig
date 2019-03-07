@@ -14,8 +14,8 @@
 </script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/photoset-grid/1.0.1/jquery.photoset-grid.min.js"></script>
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.6/jquery.fancybox.min.css" />
-<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.6/jquery.fancybox.min.js"></script>
+<link rel="stylesheet" href="/assets/css/colorbox.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.6.4/jquery.colorbox-min.js"></script>
 
 <script>
   (function ($) {
@@ -38,13 +38,13 @@
     			'visibility': 'visible'
     		});
 
-        // $('.photoset-grid-lightbox').attr('style', '');
-        // $('.photoset-grid-lightbox a').colorbox({
-        //   photo: true,
-        //   scalePhotos: true,
-        //   maxHeight:'90%',
-        //   maxWidth:'90%'
-        // });
+        $('.photoset-grid-lightbox').attr('style', '');
+        $('.photoset-grid-lightbox a').colorbox({
+          photo: true,
+          scalePhotos: true,
+          maxHeight:'90%',
+          maxWidth:'90%'
+        });
     	}
     });
   })(jQuery);
