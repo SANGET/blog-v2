@@ -173,7 +173,7 @@ actions.forEach(function(act, idx) {
 
 ## 语言
 
-- 粤语、普通话、英语(你在国外看过医生吗😊)
+- 粤语、普通话、英语(在国外看过医生的😊)
 - JavaScript Java C#
 
 -----------
