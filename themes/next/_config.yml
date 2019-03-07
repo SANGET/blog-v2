@@ -572,8 +572,8 @@ quicklink:
 disqus:
   enable: true
   shortname: sanget-blog
-  count: true
-  lazyload: true
+  count: false
+  lazyload: false
 
 # Changyan
 changyan:
@@ -1002,7 +1002,7 @@ vendors:
   # Example:
   # fontawesome: //cdn.jsdelivr.net/npm/font-awesome@4/css/font-awesome.min.css
   # fontawesome: //cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.2/css/font-awesome.min.css
-  fontawesome:
+  fontawesome: https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.6.2/css/font-awesome.min.css
 
   # Internal version: 2.4.1
   # See: https://www.algolia.com
