@@ -40,7 +40,7 @@ title: About me
 
 ##### 1. Front-end infrastructure
 
-- Responsible for leading and building the process of development, delivery, post-operation of front-end products, to implement DevOps.
+- Responsible for leading and building the process of development, delivery, post-operation of front-end products.
 - Automate the construction of production environments, improve the effciency of product's development and iterative, and improve online product's reliability.
 - Built the UI Lib
 - Main Technology: React, Node
