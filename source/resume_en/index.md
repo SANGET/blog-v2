@@ -1,6 +1,6 @@
 ---
 author: Alex
-title: About me
+nav-menu: false
 ---
 
 - [中文简历](/resume)
@@ -13,7 +13,6 @@ title: About me
 - Frontend engineer
 - <a href="mailto:zh.sanget@gmail.com" target="_top">zh.sanget@gmail.com</a>
 - <a href="https://github.com/SANGET" target="_blank">GitHub</a>
-<!-- - <a href="{{ site.baseurl }}/assets/files/resume_of_alex.pdf" target="_blank">PDF resume</a> -->
 - [about me](/about)
 
 --------
@@ -68,7 +67,7 @@ title: About me
 
 ### Guangzhou Customs
 
-- 广州海关技术处「2013.07 - 2015.01」
+- Guangzhou Customs Technology Department「2013.07 - 2015.01」
 - 负责全国海关内部业务系统的维护和新系统开发, RESTFul API 开发
 - 技术: Angular C# MVC RESTFul
 
