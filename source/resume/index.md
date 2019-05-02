@@ -41,14 +41,15 @@ nav-menu: false
 - 技术: VanillaJS, React, React Native, Node, Webpack, ES567, Angular, Scss
 - 工具: Mac, GitHub, VSCode, Atom, Telegram, Google, Gmail, Chrome, Notion
 
-### 基础库
+### 开源库
 
 > 提升团队效率
 
 - [basic-helper 基础库](https://basic.ukelli.com/)
 - [ukelli-ui 基于 React 的 UI 库](https://ui.ukelli.com/)
 - [uke-admin-web-scaffold 管理后台前端脚手架](https://scaffold.ukelli.com/)
-- [uke-request 请求库](https://request.ukelli.com/)
+- [uke-dashboard 管理后台模版](https://admin.ukelli.com/)
+- [uke-request 请求加密库](https://request.ukelli.com/)
 
 --------
 
