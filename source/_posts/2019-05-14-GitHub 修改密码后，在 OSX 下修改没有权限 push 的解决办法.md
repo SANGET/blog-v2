@@ -1,6 +1,6 @@
 ---
 author: Alex
-date: 2019-04-21
+date: 2019-05-14
 layout: post
 title: GitHub 修改密码后，在 OSX 下修改没有权限 push 的解决办法
 keywords: GitHub 修改密码
