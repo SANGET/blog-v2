@@ -36,14 +36,12 @@ nav-menu: false
 
 --------
 
-## 技术流
+## 技术
 
-- 技术: VanillaJS, React, React Native, Node, Webpack, ES567, Angular, Scss
-- 工具: Mac, GitHub, VSCode, Atom, Telegram, Google, Gmail, Chrome, Notion
+- 开发: VanillaJS, Typescript, ES567, React, Redux, React Native, Node, Webpack, Angular, Scss
+- 工具: Mac, GitHub, VSCode, Atom, Telegram, Google, Gmail, Jira
 
 ### 开源库
-
-> 提升团队效率
 
 - [basic-helper 基础库](https://basic.ukelli.com/)
 - [ukelli-ui 基于 React 的 UI 库](https://ui.ukelli.com/)
@@ -59,7 +57,7 @@ nav-menu: false
 
 - 前端工程师、前端负责人, 「2015.02 - 至今」。
 - 负责前端基础框架、脚手架，建立前端产品交付流程，业务切割，代码审阅，跟进项目进度，前端任务分配，前端技能培训。
-- 应用技术: React, React Native, Node, Webpack
+- 应用技术: Typescript, React, React Native, Node, Webpack
 
 --------
 
