@@ -187,3 +187,7 @@ export default class App extends Component<Props> {
 ```
 
 好了，启动 APP，在极光的后台推送消息试试。
+
+### 参考
+
+- [https://www.jianshu.com/p/a71512a8f921](https://www.jianshu.com/p/a71512a8f921)
