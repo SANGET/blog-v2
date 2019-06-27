@@ -3,6 +3,7 @@ author: Alex
 date: 2019-06-09
 layout: post
 title: React Native 集成极光推送
+description: 基于 2019-06-07 为止的 JPush 3.3.2 版本...
 keywords: React Native 集成极光推送
 permalink: "/react-native-integrated-jpush"
 tags:

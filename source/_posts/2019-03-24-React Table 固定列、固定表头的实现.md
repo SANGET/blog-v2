@@ -3,6 +3,7 @@ author: Alex
 date: 2019-03-24
 layout: post
 title: React Table 固定列、固定表头的实现
+description: React Table 的实现
 permalink: /react-table
 keywords: React Table, Table 固定列, Table 固定表头
 tags: 
