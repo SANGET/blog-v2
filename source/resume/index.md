@@ -104,7 +104,7 @@ nav-menu: false
 
 --------
 
-#### 商务平台
+### 商务平台
 
 > Synergy88
 
@@ -112,7 +112,7 @@ nav-menu: false
 - 应用技术: React, React Native, Node, Electron
 - [技术细节](/uke-libs)
 
-#### 国际司综合业务管理系统
+### 国际司综合业务管理系统
 
 > 广州海关
 
@@ -121,7 +121,7 @@ nav-menu: false
 - 本人职责：负责项目前端设计、实现和前端组织，web api 制定
 - 技术：Angular, D3, RequestJs, .NET MVC 4.5, Web API, MongoDB, MSSQL
 
-#### 海关邮递物品查询系统
+### 海关邮递物品查询系统
 
 > 广州海关
 
