@@ -25,7 +25,7 @@ nav-menu: false
 
 <!-- -------- -->
 
-# Alex Zhang 的简历
+## Alex Zhang 的简历
 
 ## 个人信息
 
