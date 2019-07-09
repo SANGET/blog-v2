@@ -38,22 +38,6 @@ nav-menu: false
 
 --------
 
-## 技术
-
-- 开发: VanillaJS, Typescript, ES567, React, Redux, React Native, Node, Webpack, Angular, Scss
-- 工具: Mac, GitHub, VSCode, Atom, Telegram, Google, Gmail, Jira
-
-## 技术库
-
-- [little-chat](https://chat.ukelli.com/) 聊天客户端
-- [basic-helper](https://basic.ukelli.com/) JS 基础库
-- [uke-request](https://request.ukelli.com/) 中间件机制的请求库
-- [ukelli-ui](https://ui.ukelli.com/) 基于 React 的 UI 库
-- [uke-admin-web-scaffold](https://scaffold.ukelli.com/) 管理后台前端脚手架
-- [uke-dashboard](https://admin.ukelli.com/) 管理后台模版
-
---------
-
 ## 工作经验
 
 ### Synergy88
@@ -128,6 +112,22 @@ nav-menu: false
 - 职责：项目海关邮递物件的微信接入
 - 微信公众号：广州海关12360（gz12360）的邮递物件查询系统
 - 技术：Polymer, Node, MONO
+
+--------
+
+## 技术盏
+
+- 开发: VanillaJS, Typescript, ES567, React, Redux, React Native, Node, Webpack, Angular, Scss
+- 工具: Mac, GitHub, VSCode, Atom, Telegram, Google, Gmail, Jira
+
+## 开源库
+
+- [little-chat](https://chat.ukelli.com/) 聊天客户端
+- [basic-helper](https://basic.ukelli.com/) JS 基础库
+- [uke-request](https://request.ukelli.com/) 中间件机制的请求库
+- [ukelli-ui](https://ui.ukelli.com/) 基于 React 的 UI 库
+- [uke-admin-web-scaffold](https://scaffold.ukelli.com/) 管理后台前端脚手架
+- [uke-dashboard](https://admin.ukelli.com/) 管理后台模版
 
 --------
 
