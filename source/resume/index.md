@@ -25,16 +25,13 @@ nav-menu: false
 
 <!-- -------- -->
 
-## Alex Zhang 的简历
+## 个人简介
 
-## 个人信息
+我是 Alex Zhang，主要从事前端相关工作，将近六年。主要工作为 UI 框架规划和搭建、 web 管理后台前端框架、前端业务功能规划和分割、团队协调等。
 
-- Alex Zhang
-- 前端工程师
-- <a href="mailto:zh.sanget@gmail.com" target="_top">zh.sanget@gmail.com</a>
-- <a href="https://github.com/SANGET" target="_blank">GitHub</a>
-- [更多信息](/about)
-- [个人博客](https://ukelli.com/)
+喜欢 `读书`、`运动`、`摄影`、`弹吉他`、`coding`。
+
+[更多信息](/about)
 
 --------
 
@@ -44,17 +41,15 @@ nav-menu: false
 
 > 2015.02 - 至今
 
-- 前端负责人
+- 职位：前端负责人
 - 职责：负责前端基础框架、脚手架的规划与搭建，代码审阅，项目进度跟进，前端任务分配，前端技能培训。
-
---------
 
 ### 广州海关技术处
 
 > 2013.07 - 2015.01
 
-- 前端工程师
-- 负责中国海关内部业务系统的开发和维护，新系统原型制作、前端应用开发。
+- 职位：前端工程师
+- 职责：负责中国海关内部业务系统的开发和维护，新系统原型制作、前端应用开发。
 
 --------
 
@@ -74,8 +69,6 @@ nav-menu: false
 - 应用技术: Typescript，React, Node
 - [更多技术细节](/uke-libs)
 
---------
-
 ### 聊天应用
 
 > Synergy88
@@ -85,8 +78,6 @@ nav-menu: false
 - 使用技术：Typescript, Protobuf, React, Redux
 - 项目仓库：[https://github.com/SANGET/little-chat](https://github.com/SANGET/little-chat)
 - 在线地址：[https://chat.ukelli.com/](https://chat.ukelli.com/)
-
---------
 
 ### 商务平台
 
@@ -120,6 +111,8 @@ nav-menu: false
 - 开发: VanillaJS, Typescript, ES567, React, Redux, React Native, Node, Webpack, Angular, Scss
 - 工具: Mac, GitHub, VSCode, Atom, Telegram, Google, Gmail, Jira
 
+--------
+
 ## 开源库
 
 - [little-chat](https://chat.ukelli.com/) 聊天客户端
@@ -134,3 +127,11 @@ nav-menu: false
 ## 教育经历
 
 - 广东轻工职业技术学院 2010-2013
+
+--------
+
+## 联系方式
+
+- <a href="mailto:zh.sanget@gmail.com" target="_top">zh.sanget@gmail.com</a>
+- <a href="https://github.com/SANGET" target="_blank">GitHub</a>
+- [个人博客](https://ukelli.com/)
