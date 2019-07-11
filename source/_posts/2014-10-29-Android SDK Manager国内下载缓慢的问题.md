@@ -5,7 +5,7 @@ layout: post
 title: Android SDK Manager国内下载缓慢的问题
 keywords: Android SDK Manager国内下载缓慢的问题
 tags:
-  - 整理
+  - 记录
 ---
 
 ## Android SDK Manager国内下载缓慢的问题

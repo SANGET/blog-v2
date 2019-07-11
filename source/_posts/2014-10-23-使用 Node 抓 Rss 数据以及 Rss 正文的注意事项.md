@@ -6,10 +6,10 @@ title: 使用 Node 抓 Rss 数据以及 Rss 正文的注意事项
 # permalink: "/application-tech-question"
 keywords: Node, RSS
 tags:
-  - 疑问
+  - 记录
 ---
 
-## 注意事项：
+## 注意事项
 
 1. request 模块的中文编码缺陷：使用 requset 去获取中文 html 的时候，要把 encoding 设置为 null ，然后使用 iconv 或者 iconv-lite 转码，否则会出现乱码
 

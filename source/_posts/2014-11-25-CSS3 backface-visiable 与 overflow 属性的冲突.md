@@ -6,7 +6,8 @@ title: CSS3 backface-visiable 与 overflow 属性的冲突
 keywords: CSS3 backface-visiable 与 overflow
 # permalink: "/application-tech-question"
 tags:
-  - 遇到的坑
+  - 记录
+  - 技术
 ---
 
 最近在做一个 flip 效果的时候发现一个奇怪的问题，设置了

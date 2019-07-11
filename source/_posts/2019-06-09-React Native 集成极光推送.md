@@ -8,6 +8,7 @@ keywords: React Native 集成极光推送
 permalink: "/react-native-integrated-jpush"
 tags:
   - 记录
+  - 技术
 ---
 
 ## React Native 集成极光推送
