@@ -8,6 +8,8 @@ permalink: /react-table
 keywords: React Table, Table 固定列, Table 固定表头
 tags: 
   - 技术
+  - 前端
+  - React
 ---
 
 > 这几天在研究如何实现表格的固定列（fixed column）功能，这里记录了思路和细节

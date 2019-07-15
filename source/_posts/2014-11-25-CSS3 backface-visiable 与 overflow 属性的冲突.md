@@ -7,7 +7,7 @@ keywords: CSS3 backface-visiable 与 overflow
 # permalink: "/application-tech-question"
 tags:
   - 记录
-  - 技术
+  - CSS
 ---
 
 最近在做一个 flip 效果的时候发现一个奇怪的问题，设置了

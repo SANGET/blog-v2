@@ -9,6 +9,8 @@ permalink: "/react-native-integrated-jpush"
 tags:
   - 记录
   - 技术
+  - 前端
+  - React-Native
 ---
 
 ## React Native 集成极光推送
