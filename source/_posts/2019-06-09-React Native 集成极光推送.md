@@ -13,7 +13,7 @@ tags:
   - React-Native
 ---
 
-## React Native 集成极光推送
+--------------
 
 > 基于 2019-06-07 为止的 JPush 3.3.2 版本
 
@@ -33,7 +33,9 @@ react-native link
 
 然后程序自动把对应的 `project/android/app/build.gradle` `project/android/settings.gradle` 的配置自动写入
 
-### 检查配置
+--------------
+
+## 检查配置
 
 > project/android/app/build.gradle
 
@@ -80,7 +82,9 @@ project(':jpush-react-native').projectDir = new File(rootProject.projectDir, '..
 </application>
 ```
 
-### React-Native 加入 JPushPackage
+--------------
+
+## React-Native 加入 JPushPackage
 
 > 这里只记录 RN 0.29.0 以上版本
 
@@ -192,6 +196,8 @@ export default class App extends Component<Props> {
 
 好了，启动 APP，在极光的后台推送消息试试。
 
-### 参考
+--------------
+
+## 参考
 
 - [https://www.jianshu.com/p/a71512a8f921](https://www.jianshu.com/p/a71512a8f921)

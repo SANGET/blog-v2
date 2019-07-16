@@ -13,6 +13,8 @@ tags:
   - 前端
 ---
 
+--------------
+
 ## 编写文档有条不紊
 
 文档管理是个比较繁琐的事情，如果文档和代码是分离的，代码更新了还要到对应的文档的地方做更改，很难让人持之以恒。
@@ -20,6 +22,8 @@ tags:
 有没有一个方式是只需要在代码的地方写好注释，然后自动生成可交互的文档呢？
 
 用 [React Styleguidist](https://react-styleguidist.js.org/) 可以做到，但是配置比较繁琐，而且也没有中文支持，对中文用户来说很难。
+
+--------------
 
 ## 开始吧
 
@@ -56,6 +60,8 @@ npx styleguidist build
 
 就好了，React Styleguidist 很强，会自动找所有的 src/**/**.js 的注释，对应的文件，然后生成一份文档。
 
+--------------
+
 ## 自定义样式
 
 官方推荐在 styleguide.config.js 中写 style，并且用 React devtool 查找对应的节点，覆盖原有样式。
@@ -82,6 +88,8 @@ module.exports = {
   background-color: #fefefe !important;
 }
 ```
+
+--------------
 
 ## 自定义入口 index.html 入口模版
 
@@ -114,6 +122,8 @@ module.exports = {
 }
 ```
 
+--------------
+
 ## 总结
 
 同类型的 style guide 也有不少，不过 react styleguidist 相对完善一些
@@ -121,6 +131,8 @@ module.exports = {
 Ukelli-UI 便是基于此方式来编写文档，虽然有些傻，但是还能接受，用 markdown 的方式来写例子，更好维护和查看了
 
 [Ukelli-UI 的 style guide 配置](https://github.com/ukelli/ukelli-ui/blob/master/styleguide.config.js)
+
+--------------
 
 ## 参考
 
