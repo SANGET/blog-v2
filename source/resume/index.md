@@ -69,11 +69,11 @@ nav-menu: false
 - 应用技术: Typescript，React, Node
 - [更多技术细节](/uke-libs)
 
-### 聊天应用
+### 即时通讯应用 (IM)
 
 > Synergy88
 
-- 用于公司内部沟通（未完成）
+- 用于公司内部沟通（进行中）
 - 主要负责：web 客户端制作，Native 客户端（Flutter方向）规划
 - 使用技术：Typescript, Protobuf, React, Redux
 - 项目仓库：[https://github.com/SANGET/little-chat](https://github.com/SANGET/little-chat)
