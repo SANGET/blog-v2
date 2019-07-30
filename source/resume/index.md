@@ -3,7 +3,7 @@ author: Alex
 nav-menu: false
 ---
 
-<style>
+<!-- <style>
   ul ul {
     margin-bottom: 0;
   }
@@ -19,7 +19,7 @@ nav-menu: false
   .artical {
     padding: 0.5em 0.5em !important;
   }
-</style>
+</style> -->
 
 <!-- - [English version](/resume_en) -->
 
@@ -32,6 +32,7 @@ nav-menu: false
 喜欢 `读书`、`运动`、`摄影`、`弹吉他`、`coding`。
 
 [更多信息](/about)
+[下载简历](/assets/other/resume.pdf)
 
 --------
 
