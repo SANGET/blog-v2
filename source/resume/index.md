@@ -42,19 +42,30 @@ nav-menu: false
 
 > 2015.02 - 至今
 
-- 职位：前端负责人
-- 职责：负责前端基础框架、脚手架的规划与搭建，代码审阅，项目进度跟进，前端任务分配，前端技能培训。
+职位：前端负责人
+职责：负责前端基础框架、脚手架的规划与搭建，代码审阅，项目进度跟进，前端任务分配，前端技能培训。
 
 ### 广州海关技术处
 
 > 2013.07 - 2015.01
 
-- 职位：前端工程师
-- 职责：负责中国海关内部业务系统的开发和维护，新系统原型制作、前端应用开发。
+职位：前端工程师
+职责：负责中国海关内部业务系统的开发和维护，新系统原型制作、前端应用开发。
 
 --------
 
 ## 项目经历
+
+### 即时通讯应用客户端
+
+> Synergy88
+
+主要应用于与公司业务结合，为战略产品。
+
+- 主要负责：web 客户端制作，Native 客户端（Flutter方向）规划。
+- 使用技术：`Typescript`, `Protobuf`, `React`, `Redux`, `Flutter`
+- 项目仓库（客户端开源）：[https://github.com/SANGET/little-chat](https://github.com/- SANGET/little-chat)
+- 在线地址（非商用）：[https://chat.ukelli.com/](https://chat.ukelli.com/)
 
 ### 前端基础库与框架搭建
 
@@ -62,31 +73,23 @@ nav-menu: false
 
 目标：统一开发方式、减少重复开发、提升团队效率，并且建立健全的文档机制让项目可持续维护。
 
-1. `basic-helper`：提供开发常用的函数，例如时间处理、金钱格式处理、本地存储统一接口等。
-2. `ukelli-ui`：基于 `React` 的 `UI` 框架，作用于公司所有前端项目，统一团队开发方式，提升产品产出效率。
-3. `uke-admin-web-scaffold`：管理后台脚手架工具，业务于 UI 分离，声明式页面业务开发，提高开发效率，统一 UI 交互、风格，并支持多标签页。
-4. `uke-dashboard`：结合上述的管理系统模版框架。
+- `basic-helper`：提供开发常用的函数，例如时间处理、金钱格式处理、本地存储统一接口等。
+- `ukelli-ui`：基于 `React` 的 `UI` 框架，作用于公司所有前端项目，统一团队开发方式，提升产品产出效率。
+- `uke-admin-web-scaffold`：管理后台脚手架工具，业务于 UI 分离，声明式页面业务开发，提高开发效率，统一 UI 交互、风格，并支持多标签页。
+- `uke-dashboard`：结合上述的管理系统模版框架。
 
-- 应用技术: Typescript，React, Node
-- [更多技术细节](/uke-libs)
+应用技术: `Typescript`, `React`, `Node`
 
-### 即时通讯应用 (IM)
-
-> Synergy88
-
-- 用于公司内部沟通（进行中）
-- 主要负责：web 客户端制作，Native 客户端（Flutter方向）规划
-- 使用技术：Typescript, Protobuf, React, Redux
-- 项目仓库：[https://github.com/SANGET/little-chat](https://github.com/SANGET/little-chat)
-- 在线地址：[https://chat.ukelli.com/](https://chat.ukelli.com/)
+[更多技术细节](/uke-libs)
 
 ### 商务平台
 
 > Synergy88
 
-- 主要负责：提供前端基础技术支持，前端基础框架搭建，业务开发任务分配，产出所有终端(PC、Mobile、Client)的应用
-- 应用技术: React, React Native, Node, Electron
-- [技术细节](/uke-libs)
+- 主要负责：提供前端基础技术支持，前端基础框架搭建，业务开发任务分配，产出各个终端(PC、Mobile、Client)的应用。
+- 应用技术: `React`, `React-Native`, `Node`, `Electron`
+
+[技术细节](/uke-libs)
 
 ### 国际司综合业务管理系统
 
@@ -94,23 +97,23 @@ nav-menu: false
 
 - 项目简介：中国海关总署国际司业务系统，处理国内海关人员和领导出入境的流程。
 - 系统架构：系统分层架构，分为Data、Framework、Workflow、User、Web、Web Api，测试先行，TDD（测试驱动开发）模式，实现底层逻辑高度重用，适配其他业务系统，开发其他业务系统，只需要实现表现层 Web。
-- 本人职责：负责项目前端设计、实现和前端组织，web api 制定
-- 技术：Angular, D3, RequestJs, .NET MVC 4.5, Web API, MongoDB, MSSQL
+- 本人职责：负责项目前端设计、实现和前端组织，web api 制定。
+- 技术：`Angular`, `D3`, `RequestJs`, `.NET MVC 4.5`, `Web API`, `MongoDB`, `MSSQL`
 
 ### 海关邮递物品查询系统
 
 > 广州海关
 
-- 职责：项目海关邮递物件的微信接入
-- 微信公众号：广州海关12360（gz12360）的邮递物件查询系统
-- 技术：Polymer, Node, MONO
+- 本人职责：项目海关邮递物件的微信接入。
+- 微信公众号：广州海关12360（gz12360）的邮递物件查询系统。
+- 技术：`Polymer`, `Node`, `MONO`
 
 --------
 
 ## 技术盏
 
-- 开发: VanillaJS, Typescript, ES567, React, Redux, React Native, Node, Webpack, Angular, Scss
-- 工具: Mac, GitHub, VSCode, Atom, Telegram, Google, Gmail, Jira
+- 开发: `VanillaJS`, `Typescript`, `ES567`, `React`, `Node`, `Redux`, `React-Native`, `Webpack`, `Angular`, `Scss`
+- 工具: `Mac`, `GitHub`, `VSCode`, `Atom`, `Telegram`, `Google`, `Gmail`, `Jira`
 
 --------
 

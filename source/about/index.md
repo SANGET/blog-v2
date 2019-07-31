@@ -20,8 +20,6 @@ date: 2018-11-26
 
 -----------
 
-## 照骗
-
 <div class="photoset-grid-lightbox" data-layout="44" style="visibility: hidden;">
   <img src="/assets/images/me/wo6.jpg" data-highres="/assets/images/me/wo6.jpg">
   <img src="/assets/images/me/wo1.jpg" data-highres="/assets/images/me/wo1.jpg">
