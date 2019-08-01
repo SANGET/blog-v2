@@ -80,8 +80,6 @@ nav-menu: false
 
 应用技术: `Typescript`, `React`, `Node`
 
-[更多技术细节](/uke-libs)
-
 ### 商务平台
 
 > Synergy88
