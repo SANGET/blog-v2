@@ -93,7 +93,7 @@ nav-menu: false
 
 目的：响应敏捷开发方式，规范前端团队开发方式，提升项目研发效率，建立健全的文档机制，让项目可持续维护。
 
-库一览：
+项目库一览：
 
 - [`basic-helper`][basic-helper]：提供开发常用的数据处理函数，如`时间处理`、`金钱格式处理`、`数组处理`、`通用订阅发布机制`、`本地存储接口`（Web 和 React-Native）等。
 - [`uke-request`][uke-request]：基于 fetch API 的 http 请求封装，内置中间件（内置 RC4 数据加解密、LZMA 数据压解缩中间件）机制、RESTFul API 支持。
