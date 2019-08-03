@@ -5,24 +5,39 @@ date: 2018-11-26
 
 ## 关于我
 
-我是 Alex Zhang，Alex 有千千万，只是个代号，但是我依然是我。作为首批 90 后，突然发现「震惊！全国至今没有一个 90 后能活到 30 岁」要成为烂梗了。
+我是（ Alex、Sanget ），90 年生于广东，根植于广府文化，一个低调、务实、喜欢喝早茶的普通人。如果生活并不能常如意，那就去喝一个早茶。
 
-生于广东，根植广府文化，见证了香港澳门回归，经历过 SARS（非典），经历了千年虫、中国加入 WTO、美国 911 事件、08 年金融危机、08 年中国奥运会、12 年广州亚运会，终于长大成人，出来工作谋生。生于最好的时代，见证了许多以后可以写入历史书的历史。回头看，人生如此奇妙。
+喜欢音乐、摄影、旅游、编程。把每一件事情想做的事情都做到极致，这是我的准则。记得高一拿起了舍友的吉他自学，到网吧为了下载吉他谱打印，在休息时间练习指法，成为宿舍唯一学会吉他的人。
 
-## 记事
+大学时期组织了乐队，当过吉他手、贝斯手，也演出过，得意过，失落过，也算是小小地圆了一场音乐梦。但唯一遗憾的是，大学时期并没有钱买一把属于自己的电吉他。现在在房间角落的那把 Jazz 吉他，弹起来已经不是当年的那份感觉了。但我依然喜爱。
 
-- 2013 年毕业，就职于广州海关技术处，体验公务员的工作和生活。
-- 2015-2018 年到国外混迹，体验不确定的事情，收获良多，提升了英语水平、提升了专业水平，见识了世界，游山玩水，认识许多朋友，离离合合，聚聚散散。
-- 2019 年，遇到人生又一个瓶颈，需要自我突破。三十而立，希望我可以立足于世。
-- 未来
+毕业后选择了编程，在我 6 岁那年接触了计算机，那时候就觉得我要做游戏设计师，我要把我的构思实现。当然现实并不会常如愿，要很努力才能如愿，我们拼命想抓住的蝴蝶，要很努力才能抓住。所以我依然会很努力去把我的构思实现。
 
-审视过去，奋于现在，放眼未来。
+未来那么的不确定，但都是自己一步一个脚印走出来的，审视过去，无愧于当下，才能活在未来。
+
+## 关于博客
+
+13 年开始陆续在折腾写博客的工具，也陆续在记录了个人成长经历，记录了每一个瓶颈。现在更想要分享所学所得，例如前端技能、有趣的经历故事。
+
+生活大部分的时候都是无趣的，那我试着让生活变得有趣。
+
+## 时间线
+
+- 2013 毕业，到了广州海关上班，但是并不能适应公务员的生活，我看到了我爱冒险的性格。
+- 2015 到国外工作生活，体验那份不确定，体验那份冒险。收获良多，提升了英语水平、专业技能水平，见识了不同的世界，看了许多不同的风景，认识了许多朋友，离离合合，聚聚散散，这才是生活的常态吧。
+- 2019 又一个瓶颈，思考着我是谁，我在哪里，我要到哪里去。显然每个人都值得去寻找并体现属于自己的人生价值。
+- 未来待续
 
 -----------
 
-<div class="photoset-grid-lightbox" data-layout="44" style="visibility: hidden;">
-  <img src="/assets/images/me/wo6.jpg" data-highres="/assets/images/me/wo6.jpg">
-  <img src="/assets/images/me/wo1.jpg" data-highres="/assets/images/me/wo1.jpg">
-  <img src="/assets/images/me/wo3.jpg" data-highres="/assets/images/me/wo3.jpg">
-  <img src="/assets/images/me/wo7.jpg" data-highres="/assets/images/me/wo7.jpg">
+<div class="photoset-grid-lightbox" data-layout="333" style="visibility: hidden;">
+  <img src="/assets/images/me/1.jpg" data-highres="/assets/images/me/1.jpg">
+  <img src="/assets/images/me/2.jpg" data-highres="/assets/images/me/2.jpg">
+  <img src="/assets/images/me/3.jpg" data-highres="/assets/images/me/3.jpg">
+  <img src="/assets/images/me/4.jpg" data-highres="/assets/images/me/4.jpg">
+  <img src="/assets/images/me/5.jpg" data-highres="/assets/images/me/5.jpg">
+  <img src="/assets/images/me/6.jpg" data-highres="/assets/images/me/6.jpg">
+  <img src="/assets/images/me/7.jpg" data-highres="/assets/images/me/7.jpg">
+  <img src="/assets/images/me/8.jpg" data-highres="/assets/images/me/8.jpg">
+  <img src="/assets/images/me/9.jpg" data-highres="/assets/images/me/9.jpg">
 </div>

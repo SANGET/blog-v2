@@ -197,7 +197,7 @@ actions.forEach(function(act, idx) {
 ## 我
 
 <div class="photoset-grid-lightbox" data-layout="33" style="visibility: hidden;">
-  <img src="/assets/images/me/wo6.jpg" data-highres="/assets/images/me/wo6.jpg">
-  <img src="/assets/images/me/wo1.jpg" data-highres="/assets/images/me/wo1.jpg">
-  <img src="/assets/images/me/wo3.jpg" data-highres="/assets/images/me/wo3.jpg">
+  <img src="/assets/images/me/6.jpg" data-highres="/assets/images/me/6.jpg">
+  <img src="/assets/images/me/1.jpg" data-highres="/assets/images/me/1.jpg">
+  <img src="/assets/images/me/3.jpg" data-highres="/assets/images/me/3.jpg">
 </div>
