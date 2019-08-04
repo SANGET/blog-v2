@@ -2,7 +2,6 @@
 author: Alex
 date: 2018-10-23
 layout: post
-image: assets/images/trip/biyao3.jpg
 title: JS 的箭头函数
 tags: [技术]
 ---
