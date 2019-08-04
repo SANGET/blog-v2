@@ -3,7 +3,6 @@ author: Alex
 date: 2019-02-26
 layout: post
 title: RxJS、Lodash函数式库背后的思考
-permalink: /think-of-rxjs
 tags: 
   - 技术
 ---

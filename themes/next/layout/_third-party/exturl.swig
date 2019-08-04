@@ -13,38 +13,27 @@
 </script>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/photoset-grid/1.0.1/jquery.photoset-grid.min.js"></script>
-<link rel="stylesheet" href="/assets/css/colorbox.css">
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.colorbox/1.6.4/jquery.colorbox-min.js"></script>
 
 <script>
   (function ($) {
-  	$('.photoset-grid-lightbox').photosetGrid({
-      width: '100%',
-    	gutter: '5px',
-    	highresLinks: true,
-    	lowresWidth: 300,
-    	rel: 'gallery-01',
-    	borderActive: true,
-    	borderWidth: '3px',
-    	borderColor: '#000000',
-    	borderRadius: '3px',
-    	borderRemoveDouble: false,
+  	$('.photoset-grid').photosetGrid({
+      // width: '100%',
+    	// gutter: '5px',
+    	// highresLinks: true,
+    	// lowresWidth: 300,
+    	// rel: 'gallery-01',
+    	// borderActive: true,
+    	// borderWidth: '3px',
+    	// borderColor: '#000000',
+    	// borderRadius: '3px',
+    	// borderRemoveDouble: false,
 
-    	onInit: function(){},
-    	onComplete: function(){
-
-    		$('.photoset-grid-lightbox').css({
-    			'visibility': 'visible'
-    		});
-
-        $('.photoset-grid-lightbox').attr('style', '');
-        $('.photoset-grid-lightbox a').colorbox({
-          photo: true,
-          scalePhotos: true,
-          maxHeight:'90%',
-          maxWidth:'90%'
-        });
-    	}
+    	// onInit: function(){},
+    	// onComplete: function(){
+    	// 	$('.photoset-grid').css({
+    	// 		'visibility': 'visible'
+    	// 	});
+    	// }
     });
   })(jQuery);
 </script>

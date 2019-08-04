@@ -4,7 +4,7 @@ date: 2019-07-31
 layout: post
 title: 打造稳定可靠的 websocket 连接
 keywords: 可靠的 websocket, 稳定的 websocket
-permalink: /build-stable-websocket-connection
+# permalink: /build-stable-websocket-connection
 tags: 
   - 技术
   - 前端

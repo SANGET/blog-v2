@@ -30,14 +30,16 @@ date: 2018-11-26
 
 -----------
 
-<div class="photoset-grid-lightbox" data-layout="333" style="visibility: hidden;">
-  <img src="/assets/images/me/1.jpg" data-highres="/assets/images/me/1.jpg">
-  <img src="/assets/images/me/2.jpg" data-highres="/assets/images/me/2.jpg">
-  <img src="/assets/images/me/3.jpg" data-highres="/assets/images/me/3.jpg">
-  <img src="/assets/images/me/4.jpg" data-highres="/assets/images/me/4.jpg">
-  <img src="/assets/images/me/5.jpg" data-highres="/assets/images/me/5.jpg">
-  <img src="/assets/images/me/6.jpg" data-highres="/assets/images/me/6.jpg">
-  <img src="/assets/images/me/7.jpg" data-highres="/assets/images/me/7.jpg">
-  <img src="/assets/images/me/8.jpg" data-highres="/assets/images/me/8.jpg">
-  <img src="/assets/images/me/9.jpg" data-highres="/assets/images/me/9.jpg">
-</div>
+<escape>
+  <div class="photoset-grid" data-layout="333">
+    <img src="/assets/images/me/1.jpg">
+    <img src="/assets/images/me/2.jpg">
+    <img src="/assets/images/me/3.jpg">
+    <img src="/assets/images/me/4.jpg">
+    <img src="/assets/images/me/5.jpg">
+    <img src="/assets/images/me/6.jpg">
+    <img src="/assets/images/me/7.jpg">
+    <img src="/assets/images/me/8.jpg">
+    <img src="/assets/images/me/9.jpg">
+  </div>
+</escape>

@@ -4,7 +4,7 @@ date: 2019-07-16
 layout: post
 title: 如何向 ArrayBuffer 写入 Uint64 数据
 keywords: ArrayBuffer Uint64, Uint64 js, protobuf uint64
-permalink: /protobufjs-uint64
+# permalink: /protobufjs-uint64
 tags: 
   - 技术
   - 前端

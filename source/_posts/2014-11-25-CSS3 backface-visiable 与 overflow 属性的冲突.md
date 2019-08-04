@@ -4,7 +4,7 @@ date: 2014-11-25
 layout: post
 title: CSS3 backface-visiable 与 overflow 属性的冲突
 keywords: CSS3 backface-visiable 与 overflow
-# permalink: "/application-tech-question"
+# # permalink: "/application-tech-question"
 tags:
   - 记录
   - CSS
@@ -17,7 +17,7 @@ backface-visiable: hidden;
 overflow: hidden
 ```
 
-的元素反转180度以后背面没有被隐藏，最终还是被Google出来了，overflow会覆盖transform-style: preserve-3d属性，还有以下一些元素会导致transform-style: preserve-3d失效: 
+的元素反转180度以后背面没有被隐藏，最终还是被Google出来了，overflow会覆盖transform-style: preserve-3d属性，还有以下一些元素会导致 `transform-style: preserve-3d` 失效:
 
 参考地址: http://codepen.io/thebabydino/details/rACbl
 
