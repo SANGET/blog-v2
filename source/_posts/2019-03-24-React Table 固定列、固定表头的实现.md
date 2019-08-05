@@ -78,6 +78,6 @@ const columns = [
 
 __所以 uke-table 对 column 的宽度做了计算优化，达到「column 自适应内容宽度」，超出一定宽度会自动换行这样的目的。__ 从而让开发更加专注于业务，而不是 UI 信息。
 
-uke-table 文档: [https://ui.ukelli.com/#/Table][ukelli-table]
+uke-table 文档: [https://ui.ukelli.com/Table][ukelli-table]
 
-[ukelli-table]:https://ui.ukelli.com/#/Table
+[ukelli-table]:https://ui.ukelli.com/Table
