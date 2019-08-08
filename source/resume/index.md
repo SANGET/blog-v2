@@ -75,6 +75,7 @@ nav-menu: false
 
 - 项目仓库（客户端开源）：[https://github.com/SANGET/little-chat][little-chat]
 - 在线地址（非商用）：[https://chat.ukelli.com/][chat.ukelli]
+  - 添加 `alex` 聊聊天
 
 > Synergy88
 
