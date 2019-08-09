@@ -21,7 +21,7 @@ nav-menu: false
   }
 </style> -->
 
-<!-- - [English version](/resume_en) -->
+- [English version](/resume_en)
 
 <!-- -------- -->
 
