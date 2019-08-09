@@ -53,7 +53,7 @@ Like to explore the pinciple of how things work, like to `read`, `sport`, `photo
 
 ### IM Client
 
-- Github（client open source）: [https://github.com/SANGET/little-chat][little-chat]
+- Github（client open source）: [https://github.com/elk-chat/elk_web][elk-chat]
 - Live demo（Not commercial）: [https://chat.ukelli.com/][chat.ukelli]
 
 > Synergy88
@@ -115,7 +115,7 @@ Technical labels: `Polymer`, `Node`, `MONO`
 
 ## Open source libs
 
-- [little-chat](https://chat.ukelli.com/) IM client
+- [elk-chat](https://chat.ukelli.com/) IM client
 - [basic-helper](https://basic.ukelli.com/) JS basic helper lib
 - [uke-request](https://request.ukelli.com/) HTTP request lib with middleware
 - [ukelli-ui](https://ui.ukelli.com/) Base on React's UI lib
@@ -146,5 +146,5 @@ Technical labels: `Polymer`, `Node`, `MONO`
 [ukelli-ui]: https://github.com/ukelli/ukelli-ui
 [uke-admin-web-scaffold]: https://github.com/SANGET/uke-admin-web-scaffold
 [uke-admin-seed]: https://github.com/SANGET/uke-admin-seed
-[little-chat]: https://github.com/SANGET/little-chat
+[elk-chat]: https://github.com/elk-chat/elk_web
 [chat.ukelli]: https://chat.ukelli.com/

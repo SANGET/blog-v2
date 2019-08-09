@@ -148,4 +148,4 @@ console.log(view) // 得出的结果应该与原生方法保持一致的。
 
 ## 参考
 
-可以参考 [`little-chat`](https://github.com/SANGET/little-chat/blob/master/packages/sdk/bigint-buffer.ts) IM 客户端的实现
+可以参考 [`elk-chat`](https://github.com/elk-chat/elk_web/blob/master/packages/sdk/bigint-buffer.ts) IM 客户端的实现

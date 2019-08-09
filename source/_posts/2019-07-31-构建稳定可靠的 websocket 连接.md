@@ -15,7 +15,7 @@ tags:
 
 可靠稳固的连接，无感的自动验证、数据同步、多终端同步数据，并保障用户数据安全、隐私，打造与 `Telegram` 一样专注于 `IM` 的应用。所以保障与服务端的可靠连接是最重要的事情之一。
 
-[little-chat](https://chat.ukelli.com) 拥有上述特点，是体验更好的 IM 客户端。
+[elk-chat](https://chat.ukelli.com) 拥有上述特点，是体验更好的 IM 客户端。
 
 ## websocket
 
@@ -336,4 +336,4 @@ const business = () => {
 
 当然还有一个问题是，有少部分请求可以不带 session，例如登陆，但是其他请求需要，这个需要在 SocketHelper 中再做进一步的验证封装，在未验证通过时，把需要验证的请求缓存到队列，然后连接成功并且验证成功后再发送，这样可以达到`无感登陆地数据同步`的体验。
 
-详情参考 [little-chat](https://github.com/SANGET/little-chat/blob/master/packages/sdk/socket/index.ts)
+详情参考 [elk-chat](https://github.com/elk-chat/elk_web/blob/master/packages/sdk/socket/index.ts)

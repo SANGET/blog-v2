@@ -71,9 +71,9 @@ nav-menu: false
 
 ## 项目经历
 
-### IM 客户端
+### IM 客户端(Elk-Chat)
 
-- 项目仓库（客户端开源）：[https://github.com/SANGET/little-chat][little-chat]
+- 项目仓库（客户端开源）：[https://github.com/elk-chat/elk_web][elk-chat]
 - 在线地址（非商用）：[https://chat.ukelli.com/][chat.ukelli]
   - 添加 `alex` 聊聊天
 
@@ -138,7 +138,7 @@ nav-menu: false
 
 ## 开源库
 
-- [little-chat](https://chat.ukelli.com/) 聊天客户端
+- [elk-chat](https://chat.ukelli.com/) 聊天客户端
 - [basic-helper](https://basic.ukelli.com/) JS 基础库
 - [uke-request](https://request.ukelli.com/) 中间件机制的请求库
 - [ukelli-ui](https://ui.ukelli.com/) 基于 React 的 UI 库
@@ -169,5 +169,5 @@ nav-menu: false
 [ukelli-ui]: https://github.com/ukelli/ukelli-ui
 [uke-admin-web-scaffold]: https://github.com/SANGET/uke-admin-web-scaffold
 [uke-admin-seed]: https://github.com/SANGET/uke-admin-seed
-[little-chat]: https://github.com/SANGET/little-chat
+[elk-chat]: https://github.com/elk-chat/elk_web
 [chat.ukelli]: https://chat.ukelli.com/
