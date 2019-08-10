@@ -20,7 +20,7 @@ Like to explore the pinciple of how things work, like to `read`, `sport`, `photo
 
 - Frontend: `Typescript`, `Javascript`, `React`, `React-Native`, `Redux`, `Flutter`, `Webpack`, `Scss`
 - Backend: `Node`
-- Deployment: `Docker`, `Kubernetes`, `Netily`
+- Deployment: `Docker`, `Kubernetes`, `Netlify`
 - Using Tools: `Mac`, `GitHub`, `VSCode`, `Atom`, `Telegram`, `Google`, `Gmail`, `Jira`
 
 --------

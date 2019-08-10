@@ -40,7 +40,7 @@ nav-menu: false
 
 - 前端: `Typescript`, `Javascript`, `React`, `React-Native`, `Redux`, `Flutter`, `Webpack`, `Scss`
 - 后端: `Node`
-- 部署: `Docker`, `Kubernetes`, `Netily`
+- 部署: `Docker`, `Kubernetes`, `Netlify`
 - 工具: `Mac`, `GitHub`, `VSCode`, `Atom`, `Telegram`, `Google`, `Gmail`, `Jira`
 
 --------
