@@ -23,7 +23,7 @@ tags:
 
 React 提供的声明式 API 让开发者可以在对 React 的底层实现没有具体了解的情况下编写应用。在开发者编写应用时虽然保持相对简单的心智，但开发者无法了解内部的实现机制。本文描述了在实现 React 的 "diffing" 算法中我们做出的设计决策以保证组件满足更新具有可预测性，以及在繁杂业务下依然保持应用的高性能性。
 
-## 设计动力 {#motivation}
+## 设计动力
 
 在某一时间节点调用 React 的 `render()` 方法，会创建一棵由 React 元素组成的树。在下一次 state 或 props 更新时，相同的 `render()` 方法会返回一棵不同的树。React 需要基于这两棵树之间的差别来判断如何有效率的更新 UI 以保证当前 UI 与最新的树保持同步。
 
@@ -36,11 +36,11 @@ React 提供的声明式 API 让开发者可以在对 React 的底层实现没�
 
 在实践中，我们发现以上假设在几乎所有实用的场景下都成立。
 
-## Diffing 算法 {#the-diffing-algorithm}
+## Diffing 算法
 
 当对比两颗树时，React 首先比较两棵树的根节点。不同类型的根节点元素会有不同的形态。
 
-### 比对不同类型的元素 {#elements-of-different-types}
+### 比对不同类型的元素
 
 当根节点为不同类型的元素时，React 会拆卸原有的树并且建立起新的树。举个例子，当一个元素从 `<a>` 变成 `<img>`，从 `<Article>` 变成 `<Comment>`，或从 `<Button>` 变成 `<div>` 都会触发一个完整的重建流程。
 
@@ -60,7 +60,7 @@ React 提供的声明式 API 让开发者可以在对 React 的底层实现没�
 
 React 会销毁 `Counter` 组件并且重新装载一个新的组件。
 
-### 比对同一类型的元素 {#dom-elements-of-the-same-type}
+### 比对同一类型的元素
 
 当比对两个相同类型的 React 元素时，React 会保留 DOM 节点，仅比对及更新有改变的属性。比如：
 
@@ -84,13 +84,13 @@ React 会销毁 `Counter` 组件并且重新装载一个新的组件。
 
 在处理完当前节点之后，React 继续对子节点进行递归。
 
-### 比对同类型的组件元素 {#component-elements-of-the-same-type}
+### 比对同类型的组件元素
 
 当一个组件更新时，组件实例保持不变，这样 state 在跨越不同的渲染时保持一致。React 将更新该组件实例的 props 以跟最新的元素保持一致，并且调用该实例的  `componentWillReceiveProps()` 和 `componentWillUpdate()` 方法。
 
 下一步，调用 `render()` 方法，diff 算法将在之前的结果以及新的结果中进行递归。
 
-### 对子节点进行递归 {#recursing-on-children}
+### 对子节点进行递归
 
 在默认条件下，当递归 DOM 节点的子元素时，React 会同时遍历两个子元素的列表；当产生差异时，生成一个 mutation。
 
@@ -128,7 +128,7 @@ React 会先匹配两个 `<li>first</li>` 对应的树，然后匹配第二个�
 
 React 会针对每个子元素 mutate 而不是保持相同的 `<li>Duke</li>` 和 `<li>Villanova</li>` 子树完成。这种情况下的低效可能会带来性能问题。
 
-### Keys {#keys}
+### Keys
 
 为了解决以上问题，React 支持 `key` 属性。当子元素拥有 key 时，React 使用 key 来匹配原有树上的子元素以及最新树上的子元素。以下例子在新增 `key` 之后使得之前的低效转换变得高效：
 
@@ -161,7 +161,7 @@ React 会针对每个子元素 mutate 而不是保持相同的 `<li>Duke</li>` �
 
 [这是](codepen://reconciliation/index-used-as-key) 在 Codepen 上的例子，展示使用下标作为 key 时导致的问题，以及 [这里](codepen://reconciliation/no-index-used-as-key) 是一个不使用下标作为 key 的例子的版本，修复了重新排列，排序，以及在列表头插入的问题。
 
-## 权衡 {#tradeoffs}
+## 权衡
 
 请谨记协调算法是一个实现细节。React 可以在每个 action 之后对整个应用进行重新渲染，得到的最终结果也会是一样的。在这个 context 下，重新渲染表示在所有组件内调用 `render` 方法，这不代表 React 会卸载或装载它们。React 只会基于以上提到的规则来决定如何进行差异的合并。
 
