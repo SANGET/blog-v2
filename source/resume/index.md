@@ -49,8 +49,8 @@ nav-menu: false
 
 ### Synergy88
 
-- 公司简介：toB 综合技术提供商。
-- 主营业务：商业系统研发、游戏研发与 API 接入、IM 服务。
+- 公司简介：toB 综合技术提供商，为集团的房地产、餐饮、娱乐业务提供技术支持。
+- 主营业务：商业系统研发、游戏研发、IM 服务。
 
 > 2015.02 - 至今
 
@@ -69,7 +69,7 @@ nav-menu: false
 
 --------
 
-## 项目经历
+## 项目
 
 ### IM 客户端(Elk-Chat)
 
@@ -88,27 +88,54 @@ nav-menu: false
 
 技术标签：`Typescript`, `Protobuf`, `React`, `Redux`, `Flutter`
 
-### 前端基础库与框架搭建
+### Ukelli-UI 库
 
-> Synergy88
+基于 `React` 的 `UI` 库，提供统一的 UI 交互和表现形式，提供方便数据录入的 [`聚合表单组件`][form-generator]、功能丰富的 [`数据渲染组件`][table-desc]，尝试一种声明 UI 的开发方式。
 
-目的：响应敏捷开发方式，规范前端团队开发方式，提升项目研发效率，建立健全的文档机制，让项目可持续维护。
+基于 Ukelli-UI 的上层应用：
 
-项目库一览：
-
-- [`basic-helper`][basic-helper]：提供开发常用的数据处理函数，如`时间处理`、`金钱格式处理`、`数组处理`、`通用订阅发布机制`、`本地存储接口`（Web 和 React-Native）等。
-- [`uke-request`][uke-request]：基于 fetch API 的 http 请求封装，内置中间件（内置 RC4 数据加解密、LZMA 数据压解缩中间件）机制、RESTFul API 支持。
-- [`ukelli-ui`][ukelli-ui]：基于 `React` 的 `UI` 框架，作用于公司所有前端项目，有统一的 UI 交互和表现形式，提高开发效率。
-- [`uke-admin-web-scaffold`][uke-admin-web-scaffold]：管理后台脚手架工具，业务与 UI 分离，声明式页面业务开发，提高开发效率，统一 UI 交互、风格，拥有支持多标签页、参数路由跳转等特性。
-- [`uke-dashboard`][uke-admin-seed]：结合上述的管理系统模版框架，主要为了应对快速开发系统的需求，规范管理后台的开发规范，已于项目维护。
+- [Elk-Chat][elk-chat]
+- [uke-admin-web-scaffold][elk-chat]
 
 技术标签: `Typescript`, `React`, `Node`
 
-### 商务平台
+相关资源
+
+- [GitHub][ukelli-ui]
+- [在线文档][ui-doc]
+
+### 管理系统脚手架
+
+为了快速响应日益增多的业务需求，减少人员流动对项目的维护影响，高效稳健的管理系统开发，构建了管理系统脚手架工具。
+
+工具介绍：管理后台脚手架 `uke-admin-web-scaffold`，业务与 UI 分离，声明式页面业务开发，高效稳健，统一 UI 交互、风格，支持多标签页、缓存参数路由等。
+
+- 主要负责：脚手架整体规划，说明文档制作，不断完善功能。
+
+技术标签: `Typescript`, `React`, `Node`
+
+- [GitHub][uke-admin-web-scaffold]
+- [在线文档][uke-admin-web-scaffold-doc]
+
+应用
+
+- [uke-dashboard][uke-admin-seed]：管理系统模版框架应用，主要为了应对快速开发系统的需求，规范管理后台的开发规范，易于项目后期维护。
+
+### 通讯工具类库
+
+[`uke-request`][uke-request]：基于 fetch API 的 http 请求封装，此工具的设计主要使用了中间件的方式进行数据过滤，内置了中间件（RC4 加解密、LZMA 压解缩），同时支持通过中间件扩展，以及 RESTFul API 支持。
+
+主要用于一个对于通讯安全有一定要求的项目，尽可能增加通讯数据被抓包解析的成本。
+
+技术标签: `Typescript`, `RC4`, `LZMA`
+
+### 商务租赁平台
 
 > Synergy88
 
-- 主要负责：提供前端基础技术支持，前端基础框架搭建，业务开发任务分配，产出各个终端(PC、Mobile、Client)的应用。
+业务模版出租业务，与 EnvatoMarket 类似的模版租赁系统。不断积累设计模版，以及对应的前端实现。需要快速响应跟进客户需求。
+
+- 主要负责：提供前端基础技术支持，协调设计资源与前端资源，开发任务跟踪。
 - 应用技术：前后端分离的应用。中前端使用了 Node 做中转服务器，主要做前端资源调配，IP 过滤，后端对客户端配置中转等。
 
 技术标签: `React`, `React-Native`, `Node`, `Electron`
@@ -134,16 +161,16 @@ nav-menu: false
 
 技术标签：`Polymer`, `Node`, `MONO`
 
---------
+<!-- --------
 
 ## 开源库
 
-- [elk-chat](https://chat.ukelli.com/) 聊天客户端
-- [basic-helper](https://basic.ukelli.com/) JS 基础库
-- [uke-request](https://request.ukelli.com/) 中间件机制的请求库
-- [ukelli-ui](https://ui.ukelli.com/) 基于 React 的 UI 库
-- [uke-admin-web-scaffold](https://scaffold.ukelli.com/) 管理后台前端脚手架
-- [uke-dashboard](https://admin.ukelli.com/) 管理后台模版
+- [elk-chat][chat.ukelli] 聊天客户端
+- [basic-helper][basic-doc] JS 基础库
+- [uke-request][request-doc] 中间件机制的请求库
+- [ukelli-ui][ui-doc] 基于 React 的 UI 库
+- [uke-admin-web-scaffold][uke-admin-web-scaffold-doc] 管理后台前端脚手架
+- [uke-dashboard][uke-dashboard-doc] 管理后台模版 -->
 
 --------
 
@@ -161,8 +188,8 @@ nav-menu: false
 
 ## 自我评价
 
-- 在国外生活了 4 年，不断在学习并提高英语水平。
 - 自律、自我驱动，不断学习，追求完美，寻求突破。
+- 在国外生活了 4 年，不断在学习并提高英语水平。
 
 [uke-request]: https://github.com/SANGET/uke-request
 [basic-helper]: https://github.com/SANGET/basic-helper
@@ -171,3 +198,12 @@ nav-menu: false
 [uke-admin-seed]: https://github.com/SANGET/uke-admin-seed
 [elk-chat]: https://github.com/elk-chat/elk_web
 [chat.ukelli]: https://chat.ukelli.com/
+
+[uke-admin-web-scaffold-doc]: https://scaffold.ukelli.com/
+[uke-dashboard-doc]: https://admin.ukelli.com/
+[ui-doc]: https://ui.ukelli.com/
+[request-doc]: https://request.ukelli.com/
+[basic-doc]: https://basic.ukelli.com/
+
+[form-generator]: https://ukelli.com/%E5%9F%BA%E4%BA%8Ereact%E6%89%93%E9%80%A0%E6%9B%B4%E5%A5%BD%E7%94%A8%E7%9A%84%E8%81%9A%E5%90%88%E8%A1%A8%E5%8D%95
+[table-desc]: https://ui.ukelli.com/Table
