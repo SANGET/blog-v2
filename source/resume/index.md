@@ -3,36 +3,17 @@ author: Alex
 nav-menu: false
 ---
 
-<!-- <style>
-  ul ul {
-    margin-bottom: 0;
-  }
-  h1,h2,h3,h4,h5,h6 {
-    margin: 1em 0;
-  }
-  /* a {
-    color: #7fa0fc;
-  } */
-  .post-container {
-    padding: 0 1em !important;
-  }
-  .artical {
-    padding: 0.5em 0.5em !important;
-  }
-</style> -->
-
 - [English version](/resume_en)
 
 <!-- -------- -->
 
 ## 个人简介
 
-我是张相杰（Alex），是一名前端工程师，从事前端相关工作六年。过去主要工作为：`UI 框架` 建设、规划和应用； `web 管理后台前端框架` 搭建与应用；前端项目质量把控和团队协调等。
+我是张相杰（Alex），前端工程师，从事前端相关工作六年。过去主要工作为：`UI 框架` 建设、规划和应用； `web 管理后台前端框架` 搭建与应用；前端项目质量把控和团队协调等。
 
 喜欢探寻事物运行原理，喜欢 `读书`、`运动`、`摄影`、`弹吉他`、`coding`。
 
-- [更多信息](/about)
-- [下载简历](/assets/other/resume.pdf)
+- [PDF简历](/assets/other/resume.pdf)
 
 --------
 
@@ -49,7 +30,7 @@ nav-menu: false
 
 ### Synergy88
 
-- 公司简介：toB 综合技术提供商，为集团的房地产、餐饮、娱乐业务提供技术支持。
+- 公司简介：toB 综合技术提供商。
 - 主营业务：商业系统研发、游戏研发、IM 服务。
 
 > 2015.02 - 至今
@@ -75,11 +56,10 @@ nav-menu: false
 
 - 项目仓库（客户端开源）：[https://github.com/elk-chat/elk_web][elk-chat]
 - 在线地址（非商用）：[https://chat.ukelli.com/][chat.ukelli]
-  - 添加 `alex` 聊聊天
 
 > Synergy88
 
-- 项目介绍：主要应用于与公司业务结合，为战略产品。
+- 项目介绍：主要于与公司业务结合，满足内部 IM 使用需求。
 - 本人负责：web 客户端制作，Native 客户端（Flutter方向）规划。
 - 应用技术：前后端分离架构。客户端程序整体使用 `Typescript`。项目结构分为 3 层结构，SDK -> Actions -> UI。
   1. `SDK` 为「以 `websocket` 作为通讯通道， `protobuf` 作为底层通讯协议」的 `API` 封装，提供给 Actions 与 UI 数据支持。
@@ -90,32 +70,32 @@ nav-menu: false
 
 ### Ukelli-UI 库
 
-基于 `React` 的 `UI` 库，提供统一的 UI 交互和表现形式，提供方便数据录入的 [`聚合表单组件`][form-generator]、功能丰富的 [`数据渲染组件`][table-desc]，尝试一种声明 UI 的开发方式。
+- 项目仓库：[https://github.com/ukelli/ukelli-ui][ukelli-ui]
+- 在线文档：[https://ui.ukelli.com/][ui-doc]
 
-基于 Ukelli-UI 的上层应用：
+> Synergy88
+
+介绍：基于 `React` 的 `UI` 库，提供统一的 UI 交互和表现形式，提供方便数据录入的 [`聚合表单组件`][form-generator]、功能丰富的 [`数据渲染组件`][table-desc]，尝试以声明式 UI 的开发方式。
+
+基于 Ukelli-UI 的应用：
 
 - [Elk-Chat][elk-chat]
 - [uke-admin-web-scaffold][elk-chat]
 
 技术标签: `Typescript`, `React`, `Node`
 
-相关资源
-
-- [GitHub][ukelli-ui]
-- [在线文档][ui-doc]
-
 ### 管理系统脚手架
 
-为了快速响应日益增多的业务需求，减少人员流动对项目的维护影响，高效稳健的管理系统开发，构建了管理系统脚手架工具。
+- 项目仓库：[https://github.com/SANGET/uke-admin-web-scaffold][uke-admin-web-scaffold]
+- 在线文档：[https://scaffold.ukelli.com/][uke-admin-web-scaffold-doc]
 
-工具介绍：管理后台脚手架 `uke-admin-web-scaffold`，业务与 UI 分离，声明式页面业务开发，高效稳健，统一 UI 交互、风格，支持多标签页、缓存参数路由等。
+> Synergy88
 
+- 目的：为了快速响应日益丰富繁杂的业务需求，减少人员流动对项目的维护影响，高效稳健的管理系统开发，构建了管理系统脚手架工具。
+- 介绍：管理后台脚手架 `uke-admin-web-scaffold`，业务与 UI 分离，声明式页面业务开发，高效稳健，统一 UI 交互、风格，支持多标签页、缓存参数路由等。
 - 主要负责：脚手架整体规划，说明文档制作，不断完善功能。
 
 技术标签: `Typescript`, `React`, `Node`
-
-- [GitHub][uke-admin-web-scaffold]
-- [在线文档][uke-admin-web-scaffold-doc]
 
 应用
 
@@ -123,9 +103,13 @@ nav-menu: false
 
 ### 通讯工具类库
 
-[`uke-request`][uke-request]：基于 fetch API 的 http 请求封装，此工具的设计主要使用了中间件的方式进行数据过滤，内置了中间件（RC4 加解密、LZMA 压解缩），同时支持通过中间件扩展，以及 RESTFul API 支持。
+- 项目仓库：[https://github.com/SANGET/uke-request][uke-request]
+- 在线文档：[https://request.ukelli.com/][uke-request-doc]
 
-主要用于一个对于通讯安全有一定要求的项目，尽可能增加通讯数据被抓包解析的成本。
+> Synergy88
+
+- 目的：基于 fetch API 的 HTTP 请求封装，采取中间件机制，对数据进行过滤。内置了「RC4 加解密」和「LZMA 压解缩」中间件，支持中间件扩展，支持 RESTFul API。
+- 目的：主要用于一个对于通讯安全有一定要求的项目，尽可能增加通讯数据被抓包解析的成本，以及压缩请求体的体积（最大10M请求体，压缩后为700k）。
 
 技术标签: `Typescript`, `RC4`, `LZMA`
 
@@ -133,8 +117,7 @@ nav-menu: false
 
 > Synergy88
 
-业务模版出租业务，与 EnvatoMarket 类似的模版租赁系统。不断积累设计模版，以及对应的前端实现。需要快速响应跟进客户需求。
-
+- 介绍：业务模版出租业务，与 EnvatoMarket 类似的模版租赁系统。不断积累设计模版，以及对应的前端实现。需要快速响应跟进客户需求。
 - 主要负责：提供前端基础技术支持，协调设计资源与前端资源，开发任务跟踪。
 - 应用技术：前后端分离的应用。中前端使用了 Node 做中转服务器，主要做前端资源调配，IP 过滤，后端对客户端配置中转等。
 
@@ -202,6 +185,7 @@ nav-menu: false
 [uke-admin-web-scaffold-doc]: https://scaffold.ukelli.com/
 [uke-dashboard-doc]: https://admin.ukelli.com/
 [ui-doc]: https://ui.ukelli.com/
+[uke-request-doc]: https://request.ukelli.com/
 [request-doc]: https://request.ukelli.com/
 [basic-doc]: https://basic.ukelli.com/
 
