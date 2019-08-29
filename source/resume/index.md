@@ -1,6 +1,9 @@
 ---
 author: Alex
 nav-menu: false
+comments: false
+sidebar: false
+# layout: false
 ---
 
 - [English version](/resume_en)
