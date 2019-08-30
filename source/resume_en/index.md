@@ -1,6 +1,10 @@
 ---
 author: Alex
 nav-menu: false
+comments: false
+sidebar: false
+layout: simple
+title: Alex's Resume
 ---
 
 - [中文简历](/resume)
