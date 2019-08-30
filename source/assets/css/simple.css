@@ -1,0 +1,59 @@
+body {
+  font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
+  /* font-weight: normal; */
+  /* color: #666; */
+  background-color: #e8e8e8;
+}
+
+p {
+  line-height: 1.5em;
+}
+
+.to-home {
+  padding: 10px;
+}
+
+.to-home a {
+  color: #777;
+}
+
+.markdown-body {
+  box-sizing: border-box;
+  min-width: 200px;
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 45px;
+  background-color: #FFF;
+}
+
+.markdown-body hr {
+  margin: 40px 0;
+}
+
+.markdown-body h2 {
+  margin-top: 40px;
+}
+
+.markdown-body h3 {
+  /* border-left: 3px solid #CCC; */
+  /* padding-left: 20px; */
+}
+
+@media (max-width: 767px) {
+  .markdown-body {
+    padding: 15px;
+  }
+}
+
+@media print {    
+  .no-print, .no-print * {
+    display: none !important;
+  }
+}
+
+/* #simple-container {
+  width: 1024px;
+  background-color: #FFF;
+  margin: 50px auto;
+  padding: 40px;
+} */
