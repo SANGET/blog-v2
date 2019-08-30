@@ -4,7 +4,7 @@ date: 2019-03-24
 layout: post
 title: 如何实现 React Table 固定列、固定表头
 description: 可应用于生产的 React Table 实现
-photos: /assets/images/other/react-table.png
+photos: https://cdn.jsdelivr.net/gh/SANGET/blog-v2@master/source/assets/images/other/react-table.png
 # permalink: /react-table
 keywords: React Table, Table 固定列, Table 固定表头
 tags: 
