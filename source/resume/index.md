@@ -75,7 +75,7 @@ title: Alex's Resume
 
 - 介绍：基于 `React` 的 `UI` 库，提供统一的 UI 交互和表现形式，提供功能齐全的数据录入的 [`聚合表单组件`][form-generator]、[`数据渲染组件`][table-desc]，主要应用于 web 开发，管理后台基础组件。
 - 技术结构：
-  - 拥有通用轻量的组件集合。
+  - 通用轻量的组件集合。
 - 技术标签: `Typescript`, `React`, `Node`
 - 基于 Ukelli-UI 的应用：
   - [Elk-Chat][elk-chat]
@@ -90,7 +90,7 @@ title: Alex's Resume
 
 - 介绍：`uke-admin-web-scaffold` 是基于 `React`、`Ukelli-UI` 的管理后台脚手架，主攻「业务和 UI 分离」、「业务声明式开发」方向，把大部分的通用需求交给后端人员。稳健高效，统一 UI 交互、视觉效果，支持多标签页。
 - 目的：为了快速响应日益丰富繁杂的业务管理系统开发需求，减少人员流动对项目的维护影响，高效稳健的开发，而构建的管理系统脚手架工具。
-- 主要负责：脚手架整体制作于规划，说明文档编写，功能持续迭代。
+- 主要负责：脚手架整体制作与规划，说明文档编写，功能持续迭代。
 - 技术标签: `Typescript`, `React`, `Node`
 - 相关资源
   - 项目仓库：[https://github.com/SANGET/uke-admin-web-scaffold][uke-admin-web-scaffold]
