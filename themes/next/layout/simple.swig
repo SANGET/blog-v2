@@ -19,7 +19,7 @@
   <title>Resume</title>
   {% include '_third-party/analytics/index.swig' %}
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/github-markdown-css@3.0.1/github-markdown.min.css">
-  <link rel="stylesheet" href="/assets/css/simple.css">
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/SANGET/blog-v2@master/source/assets/css/simple.css">
 </head>
 <body>
   <div class="no-print to-home">

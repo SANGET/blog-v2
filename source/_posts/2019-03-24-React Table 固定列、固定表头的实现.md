@@ -20,7 +20,7 @@ tags:
 
 <escape>
   <video width="100%" controls>
-    <source src="/assets/video/react-table-demo.mov" type="video/mp4">
+    <source src="https://cdn.jsdelivr.net/gh/SANGET/blog-v2@master/source/assets/video/react-table-demo.mov" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </escape>
