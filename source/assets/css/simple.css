@@ -3,18 +3,19 @@ body {
   /* font-weight: normal; */
   /* color: #666; */
   background-color: #e8e8e8;
+  margin: 0;
 }
 
 p {
   line-height: 1.5em;
 }
 
-.to-home {
+/* .to-home {
   padding: 10px;
-}
+} */
 
-.to-home a {
-  color: #777;
+.simple-nav a {
+  color: #0366d6;
 }
 
 .markdown-body {

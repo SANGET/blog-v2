@@ -7,7 +7,13 @@ layout: simple
 title: Alex's Resume
 ---
 
-- [中文简历](/resume)
+<escape>
+  <div class="no-print simple-nav">
+    <h2>Navigation</h2>
+    <a href="/" style="margin-right: 20px">To Blog</a>
+    <a href="/resume">中文简历</a>
+  </div>
+</escape>
 
 ## My Profile
 

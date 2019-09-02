@@ -22,9 +22,6 @@
   <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/SANGET/blog-v2@master/source/assets/css/simple.css">
 </head>
 <body>
-  <div class="no-print to-home">
-    <a href="/">返回首页</a>
-  </div>
   <div id="simple-container" class="markdown-body">
     {% block content %}
       {{ page.content }}
