@@ -47,9 +47,9 @@ url: https://ukelli.com
 # For example, you put your favicons into `hexo-site/source/images` directory.
 # Then need to rename & redefine them on any other names, otherwise icons from Next will rewrite your custom icons in Hexo.
 favicon:
-  small: /assets/images/favicon.ico
-  medium: /assets/images/favicon.ico
-  apple_touch_icon: /assets/images/favicon.ico
+  small: https://cdn.jsdelivr.net/gh/SANGET/blog-v2@master/source/assets/images/favicon.ico
+  medium: https://cdn.jsdelivr.net/gh/SANGET/blog-v2@master/source/assets/images/favicon.ico
+  apple_touch_icon: https://cdn.jsdelivr.net/gh/SANGET/blog-v2@master/source/assets/images/favicon.ico
   safari_pinned_tab: /images/logo.svg
   #android_manifest: /images/manifest.json
   #ms_browserconfig: /images/browserconfig.xml
@@ -221,7 +221,7 @@ avatar:
   # In theme directory (source/images): /images/avatar.gif
   # In site directory (source/uploads): /uploads/avatar.gif
   # You can also use other linking images.
-  url: /assets/images/avatar.jpg
+  url: https://cdn.jsdelivr.net/gh/SANGET/blog-v2@master/source/assets/images/avatar.jpg
   # If true, the avatar would be dispalyed in circle.
   rounded: false
   # The value of opacity should be choose from 0 to 1 to set the opacity of the avatar.

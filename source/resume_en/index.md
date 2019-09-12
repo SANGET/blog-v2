@@ -1,9 +1,19 @@
 ---
 author: Alex
 nav-menu: false
+comments: false
+sidebar: false
+layout: simple
+title: Alex's Resume
 ---
 
-- [中文简历](/resume)
+<escape>
+  <div class="no-print simple-nav">
+    <h2>Navigation</h2>
+    <a href="/" style="margin-right: 20px">To Blog</a>
+    <a href="/resume">中文简历</a>
+  </div>
+</escape>
 
 ## My Profile
 
@@ -12,7 +22,7 @@ I am Alex, who is a Frontend engineer, working on Frontend related for six years
 Like to explore the pinciple of how things work, like to `read`, `sport`, `photography`, `playing guitar`, `coding`.
 
 - [More info](/about)
-- [Download as PDF](/assets/other/resume.pdf)
+- [Download as PDF](https://cdn.jsdelivr.net/gh/SANGET/blog-v2@master/source/assets/other/resume.pdf)
 
 --------
 
