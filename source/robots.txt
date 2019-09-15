@@ -10,5 +10,5 @@ Disallow: /fonts/
 Disallow: /vendors/
 Disallow: /fancybox/
 
-Sitemap: https://ukelli.com/sitemap.xml
-Sitemap: https://ukelli.com/baidusitemap.xml
+Sitemap: https://thinkmore.xyz/sitemap.xml
+Sitemap: https://thinkmore.xyz/baidusitemap.xml

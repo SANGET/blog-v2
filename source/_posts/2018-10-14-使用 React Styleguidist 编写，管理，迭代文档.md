@@ -138,4 +138,4 @@ Ukelli-UI 便是基于此方式来编写文档，虽然有些傻，但是还能�
 - [Ukelli-UI 在线文档](https://ukelli.github.io/ukelli-ui/index.html)
 - [React Styleguidist](https://react-styleguidist.js.org/docs/getting-started.html)
 - [同类参考](https://react-styleguidist.js.org/docs/cookbook.html#are-there-any-other-projects-like-this)
-- [原文](https://ukelli.com/use-react-styleguidist)
+- [原文](https://thinkmore.xyz/use-react-styleguidist)

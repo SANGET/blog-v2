@@ -69,7 +69,7 @@ title: Alex's Resume
 - 技术标签：`Typescript`, `Protobuf`, `React`, `Redux`, `Flutter`
 - 相关资源
   - 项目仓库（客户端开源）：[https://github.com/elk-chat/elk_web][elk-chat]
-  - 在线地址（非商用）：[https://chat.ukelli.com/][chat.ukelli]
+  - 在线地址（非商用）：[https://chat.thinkmore.xyz/][chat.ukelli]
 
 ### Ukelli-UI
 
@@ -84,7 +84,7 @@ title: Alex's Resume
   - [uke-admin-web-scaffold][elk-chat]
 - 相关资源
   - 项目仓库：[https://github.com/ukelli/ukelli-ui][ukelli-ui]
-  - 在线文档：[https://ui.ukelli.com/][ui-doc]
+  - 在线文档：[https://ui.thinkmore.xyz/][ui-doc]
 
 ### 管理系统脚手架
 
@@ -96,7 +96,7 @@ title: Alex's Resume
 - 技术标签: `Typescript`, `React`, `Node`
 - 相关资源
   - 项目仓库：[https://github.com/SANGET/uke-admin-web-scaffold][uke-admin-web-scaffold]
-  - 在线文档：[https://scaffold.ukelli.com/][uke-admin-web-scaffold-doc]
+  - 在线文档：[https://scaffold.thinkmore.xyz/][uke-admin-web-scaffold-doc]
   - [uke-dashboard][uke-admin-seed]：管理系统模版框架应用，主要为了应对快速开发系统的需求，规范管理后台的开发规范。
 
 ### 通讯工具类库
@@ -108,7 +108,7 @@ title: Alex's Resume
 - 技术标签: `Typescript`, `RC4`, `LZMA`
 - 相关资源
   - 项目仓库：[https://github.com/SANGET/uke-request][uke-request]
-  - 在线文档：[https://request.ukelli.com/][uke-request-doc]
+  - 在线文档：[https://request.thinkmore.xyz/][uke-request-doc]
 
 ### Web Server
 
@@ -152,7 +152,7 @@ title: Alex's Resume
 
 - <a href="mailto:zh.sanget@gmail.com" target="_top">zh.sanget@gmail.com</a>
 - <a href="https://github.com/SANGET" target="_blank">GitHub</a>
-- [个人博客](https://ukelli.com/)
+- [个人博客](https://thinkmore.xyz/)
 
 ## 教育经历
 
@@ -169,14 +169,14 @@ title: Alex's Resume
 [uke-admin-web-scaffold]: https://github.com/SANGET/uke-admin-web-scaffold
 [uke-admin-seed]: https://github.com/SANGET/uke-admin-seed
 [elk-chat]: https://github.com/elk-chat/elk_web
-[chat.ukelli]: https://chat.ukelli.com/
+[chat.ukelli]: https://chat.thinkmore.xyz/
 
-[uke-admin-web-scaffold-doc]: https://scaffold.ukelli.com/
-[uke-dashboard-doc]: https://admin.ukelli.com/
-[ui-doc]: https://ui.ukelli.com/
-[uke-request-doc]: https://request.ukelli.com/
-[request-doc]: https://request.ukelli.com/
-[basic-doc]: https://basic.ukelli.com/
+[uke-admin-web-scaffold-doc]: https://scaffold.thinkmore.xyz/
+[uke-dashboard-doc]: https://admin.thinkmore.xyz/
+[ui-doc]: https://ui.thinkmore.xyz/
+[uke-request-doc]: https://request.thinkmore.xyz/
+[request-doc]: https://request.thinkmore.xyz/
+[basic-doc]: https://basic.thinkmore.xyz/
 
-[form-generator]: https://ukelli.com/%E5%9F%BA%E4%BA%8Ereact%E6%89%93%E9%80%A0%E6%9B%B4%E5%A5%BD%E7%94%A8%E7%9A%84%E8%81%9A%E5%90%88%E8%A1%A8%E5%8D%95
-[table-desc]: https://ui.ukelli.com/Table
+[form-generator]: https://thinkmore.xyz/%E5%9F%BA%E4%BA%8Ereact%E6%89%93%E9%80%A0%E6%9B%B4%E5%A5%BD%E7%94%A8%E7%9A%84%E8%81%9A%E5%90%88%E8%A1%A8%E5%8D%95
+[table-desc]: https://ui.thinkmore.xyz/Table

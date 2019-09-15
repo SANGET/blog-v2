@@ -12,7 +12,7 @@ override: false
 cache:
   enable: true
 
-url: https://ukelli.com
+url: https://thinkmore.xyz
 
 # Redefine custom file paths. Introduced in NexT v6.0.2.
 # If commented, will be used default custom file paths.

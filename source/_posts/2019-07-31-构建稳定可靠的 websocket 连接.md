@@ -15,7 +15,7 @@ tags:
 
 可靠稳固的连接，无感的自动验证、数据同步、多终端同步数据，并保障用户数据安全、隐私，打造与 `Telegram` 一样专注于 `IM` 的应用。所以保障与服务端的可靠连接是最重要的事情之一。
 
-[elk-chat](https://chat.ukelli.com) 拥有上述特点，是体验更好的 IM 客户端。
+[elk-chat](https://chat.thinkmore.xyz) 拥有上述特点，是体验更好的 IM 客户端。
 
 ## websocket
 

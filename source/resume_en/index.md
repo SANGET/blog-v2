@@ -64,7 +64,7 @@ Like to explore the pinciple of how things work, like to `read`, `sport`, `photo
 ### IM Client
 
 - Github（client open source）: [https://github.com/elk-chat/elk_web][elk-chat]
-- Live demo（Not commercial）: [https://chat.ukelli.com/][chat.ukelli]
+- Live demo（Not commercial）: [https://chat.thinkmore.xyz/][chat.ukelli]
 
 > Synergy88
 
@@ -125,12 +125,12 @@ Technical labels: `Polymer`, `Node`, `MONO`
 
 ## Open source libs
 
-- [elk-chat](https://chat.ukelli.com/) IM client
-- [basic-helper](https://basic.ukelli.com/) JS basic helper lib
-- [uke-request](https://request.ukelli.com/) HTTP request lib with middleware
-- [ukelli-ui](https://ui.ukelli.com/) Base on React's UI lib
-- [uke-admin-web-scaffold](https://scaffold.ukelli.com/) Scaffold of web admin dashboard
-- [uke-dashboard](https://admin.ukelli.com/) Web admin dashboard
+- [elk-chat](https://chat.thinkmore.xyz/) IM client
+- [basic-helper](https://basic.thinkmore.xyz/) JS basic helper lib
+- [uke-request](https://request.thinkmore.xyz/) HTTP request lib with middleware
+- [ukelli-ui](https://ui.thinkmore.xyz/) Base on React's UI lib
+- [uke-admin-web-scaffold](https://scaffold.thinkmore.xyz/) Scaffold of web admin dashboard
+- [uke-dashboard](https://admin.thinkmore.xyz/) Web admin dashboard
 
 --------
 
@@ -144,7 +144,7 @@ Technical labels: `Polymer`, `Node`, `MONO`
 
 - <a href="mailto:zh.sanget@gmail.com" target="_top">zh.sanget@gmail.com</a>
 - <a href="https://github.com/SANGET" target="_blank">GitHub</a>
-- [Personal Blog](https://ukelli.com/)
+- [Personal Blog](https://thinkmore.xyz/)
 
 ## Self-evaluation
 
@@ -157,4 +157,4 @@ Technical labels: `Polymer`, `Node`, `MONO`
 [uke-admin-web-scaffold]: https://github.com/SANGET/uke-admin-web-scaffold
 [uke-admin-seed]: https://github.com/SANGET/uke-admin-seed
 [elk-chat]: https://github.com/elk-chat/elk_web
-[chat.ukelli]: https://chat.ukelli.com/
+[chat.ukelli]: https://chat.thinkmore.xyz/
